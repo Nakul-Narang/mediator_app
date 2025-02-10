@@ -1,2 +1,2 @@
-# mediator_app
-hELPS THE COMMON PEOPLE FOR MEDIATOR
+Helps the common people to connect to the law 
+
